@@ -1,6 +1,7 @@
 Developed a console-based Battleship game in Java featuring a 10×10 game board, randomized ship placement, turn-based gameplay, and hit/miss tracking. Implemented game logic to validate firing positions, process attacks, detect ship destruction, and determine game completion. The project demonstrates object-oriented programming, two-dimensional array manipulation, randomization algorithms, user input handling, and game state management in Java.
 
 Technologies & Concepts Demonstrated:
+
 Java
 Object-Oriented Programming (OOP)
 
