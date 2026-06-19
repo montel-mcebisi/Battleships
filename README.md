@@ -20,9 +20,9 @@ Encapsulation of Gameplay Mechanics
 
 Key Features:
 
-Generates a 10×10 Battleship board
-Randomly places five ships of varying lengths (1–5 cells) without overlap
-Tracks successful hits (H) and misses (M)
-Prevents repeated targeting of previously fired positions
-Continuously updates the board after each turn
-Automatically detects when all ships have been sunk and ends the game
+Generates a 10×10 Battleship board,
+Randomly places five ships of varying lengths (1–5 cells) without overlap,
+Tracks successful hits (H) and misses (M),
+Prevents repeated targeting of previously fired positions,
+Continuously updates the board after each turn,
+Automatically detects when all ships have been sunk and ends the game.
